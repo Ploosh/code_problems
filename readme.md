@@ -31,6 +31,11 @@ Code | Test
 [Quick Sort](https://github.com/larissalages/code_problems/blob/master/classical_algorithms/java/QuickSort.java) | Missing tests
 [Bubble Sort](https://github.com/larissalages/code_problems/blob/master/classical_algorithms/java/BubbleSort.java) | Missing tests
 
+### Dart
+Code | Test
+------------ | -------------
+[Bubble Sort](https://github.com/larissalages/code_problems/blob/master/classical_algorithms/dart/BubbleSort.dart) | Missing tests
+
 ### C++
 Code | Test
 ------------ | -------------
@@ -112,6 +117,11 @@ Challenge | Solution
 ------------ | -------------
 
 # Hackerrank
+### C++
+Challenge | Solution
+------------ | -------------
+[QHEAP1](https://www.hackerrank.com/challenges/qheap1/problem) | [Solution](https://github.com/ErR0rpj/code_problems/blob/master/Hackerrank/c%2B%2B/QHEAP1.cpp)
+
 ### Python 
 Challenge | Solution
 ------------ | -------------
